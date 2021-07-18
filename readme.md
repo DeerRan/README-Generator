@@ -15,8 +15,8 @@
 ## Description  
 This project was a homework assignment that required making a README generator. Given a set of prompts, the application can create a basic professional README.md file.  
 ## Demo
-![A GIF demonstrating the application](https://github.com/DeerRan/README-Generator/tree/main/Develop/assets/media)
-## Installasion
+![A GIF demonstrating the application](demo.gif)
+## Installation
 In order for this application to work, just type "npm install" into your VScode terminal and it should be ready to go.
 ## Usage
 This application can be used once you are done with a project. Simply install the project and run "node index.js" in order to begin generating the README.
